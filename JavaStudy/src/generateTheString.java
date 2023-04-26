@@ -1,6 +1,11 @@
 public class generateTheString {
 
     public static void main(String[] args) {
+        float m1 = 1.0029F;
+        float m2 = 1.0029F;
+
+        System.out.println();
+
         int n = 8;
         String ans = generateTheString(n);
         System.out.println(ans);
